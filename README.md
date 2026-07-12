@@ -1,6 +1,6 @@
 # LowCode Editor
 
-面向营销活动与落地页场景的低代码可视化编辑器，支持拖拽组件、实时预览、撤销重做等核心功能。
+开发基于 Web 的低代码页面构建平台，通过组件拖拽与配置驱动方式快速生成业务页面，支持复杂交互编排与实时预览能力，适用于营销活动页与业务落地页等高频场景。
 
 > 在线体验：[https://lowcode-editor.zyanghub.cn](https://lowcode-editor.zyanghub.cn)
 
